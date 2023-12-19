@@ -102,4 +102,4 @@ this.pkey=function(){
 };
 };
 
-
+exports.binar=binar;
